@@ -1,0 +1,17 @@
+.lesson-preview {
+    border-radius: 5px;
+    max-height: 250px;
+    min-height: 146px; }
+  
+  .lesson-preview .image {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: no-repeat; }
+  
+  .lesson-preview .description {
+      text-overflow:ellipsis;
+      overflow:hidden;
+      display: -webkit-box !important;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      white-space: normal; }
