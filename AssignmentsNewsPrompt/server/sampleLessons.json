@@ -1,0 +1,16 @@
+[
+    {
+        "id": "0",
+        "articleUrl": "https://www.nasa.gov/press-release/nasa-selects-two-missions-to-explore-the-early-solar-system",
+        "details": {
+            "question": "What is the main takeaway from these missions?"
+        }
+    },
+    {
+        "id": "1",
+        "articleUrl": "https://www.sciencefocus.com/future-technology/everything-you-need-to-know-about-neuralink/",
+        "details": {
+            "question": "Explain how neuralink technology works. Other than what's mentioned in this article, what are some challenges around this technology?"
+        }
+    }
+]
