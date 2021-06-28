@@ -35,7 +35,9 @@ The next section will guide you through attaching it to an assignment.
 
 After you have run the app and added it to a class, the app will be available to attach to an assignment.
 1. From an unpublished assignment, click the `...more` button to open the Teams app picker.
+![...More button](More.png)
 2. Select the "Assigments News Prompt" app.
+![Choose an App](ChooseAnApp.png)
 3. Go through the app configuration (e.g. select a news article, add a prompt).
 4. Save the configuration.
 
