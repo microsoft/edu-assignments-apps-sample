@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import React from 'react';
 import { Divider, Loader } from '@fluentui/react-northstar';
 import { ArticleMetaData, Lesson } from '../shared';

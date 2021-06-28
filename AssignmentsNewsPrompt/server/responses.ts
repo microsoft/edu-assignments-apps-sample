@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import express from 'express';
 import { ArticleResponses, ErrorCode } from '../tabs/src/shared';
 const responsesRouter = express.Router();

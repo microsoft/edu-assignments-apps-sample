@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import createError from 'http-errors';
 import express from 'express';
 import cookieParser from 'cookie-parser';

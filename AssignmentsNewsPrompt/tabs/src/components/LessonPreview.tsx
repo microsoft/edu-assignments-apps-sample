@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import React, { useEffect, useState } from 'react';
 import { ArticleMetaData, Lesson } from '../shared';
 import {

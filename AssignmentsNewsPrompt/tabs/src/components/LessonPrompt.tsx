@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import React, { useEffect, useRef, useState } from 'react';
 import { AddIcon, Button, Flex, Input, Text } from '@fluentui/react-northstar';
 

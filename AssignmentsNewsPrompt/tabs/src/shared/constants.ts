@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 export enum ErrorCode {
     BAD_REQUEST = 'BAD_REQUEST',
     LESSON_DOES_NOT_EXIST = 'LESSON_DOES_NOT_EXIST',

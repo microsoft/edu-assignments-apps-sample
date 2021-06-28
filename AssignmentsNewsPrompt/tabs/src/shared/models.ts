@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 import { ErrorCode } from "./constants";
 
 export interface ArticleMetaData {
