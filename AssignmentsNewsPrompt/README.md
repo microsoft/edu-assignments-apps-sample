@@ -20,9 +20,16 @@ Start debugging the project by hitting the `F5` key in Visual Studio Code. Alter
 
 <b>Note:</b> The first time you debug the app, the TeamsFx CLI module will create a Teams App with a unique application id in the [Teams Developer Portal](https://dev.teams.microsoft.com/home). It will also provision the necessary Azure resources (e.g. the Azure Active Directory App for supporting SSO authentication).
 
+![Running the App](RunningTheApp.png)
+
 Add the app to a class team (go through tab configuration and save the app in a new tab).
 
-At this point, the app is installed as a [Teams Tab app](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs). The next section will guide you through attaching it to an assignment.
+![Configuring the App](ConfiguringTheApp.png)
+
+At this point, the app is installed as a [Teams Tab app](https://docs.microsoft.com/en-us/microsoftteams/platform/tabs/what-are-tabs).
+The next section will guide you through attaching it to an assignment.
+
+![App added to a Tab](InstalledApp.png)
 
 ### Assignments Integration
 
