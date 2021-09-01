@@ -33,6 +33,8 @@ The next section will guide you through attaching it to an assignment.
 
 ### Assignments Integration
 
+> <b>Note:</b> The functionality to select "sideloaded" apps, apps developed and/or uploaded locally is not yet available publicly. When it becomes available, the following steps will work.
+
 After you have run the app and added it to a class, the app will be available to attach to an assignment.
 1. From an unpublished assignment, click the `...more` button to open the Teams app picker.
 ![...More button](More.png)
