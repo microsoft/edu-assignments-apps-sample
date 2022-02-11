@@ -46,6 +46,7 @@
         {
             "name": "Start Backend",
             "type": "node-terminal",
+            "request": "launch",
             "command": "npm start",
             "cwd": "${workspaceFolder}/server"
         }
