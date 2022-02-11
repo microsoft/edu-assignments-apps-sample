@@ -1,5 +1,4 @@
 node_modules
-/.fx/*
 .DS_Store
 .fx/configs/localSettings.json
 .fx/subscriptionInfo.json
